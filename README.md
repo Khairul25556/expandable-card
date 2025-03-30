@@ -24,4 +24,4 @@ An interactive and stylish **Expandable Card** design using **HTML, CSS, and Jav
 ## 📌 How to Use?  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/expandable-card.git
+   git clone https://github.com/Khairul25556/expandable-card.git
